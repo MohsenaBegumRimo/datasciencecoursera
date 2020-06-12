@@ -1,0 +1,13 @@
+---
+title: "HelloWorld"
+author: "Rimo"
+date: "June 12, 2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Mohsena Begum Rimo
+I am the laziest girl you will ever meet / i am also charming , i can sing  well . Also i am vhondo -.-
